@@ -22,11 +22,23 @@ https://www.frontendmentor.io/challenges
 ### Day 2
 Spent 3 hours coding along this tutorial to practice using HTML/CSS and Bootstrap 4 <br>
 https://www.youtube.com/watch?v=V_lAhqLXT9A
-<br><em>Project 2</em> Responsive website
+<br><em>Project 2</em> IELTS website
 
 ### Day 3
 Helped a friend with article translation so didn't have much time for coding. Learnt Git and GitHub.<br>
 Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### Day 4 + 5
+Debugged the website from Day 2. Still haven't figured out how to remove the white spaces between divs. I guess I'll get back to it later.
+
+### Day 6 + 7
+Bought Complete Web development Bootcamp by Angela Yu whom I cannot reccommend highly enought. I'm a visual learner so in love with her teaching materials.
+Finished <em>Project 3</em>: Dice challenge, as a practice to DoM.
+
+### Day 8 + 9 + 10
+Learned Advanced JS and DOM
+
+
 
 
 
