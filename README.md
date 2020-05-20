@@ -1,7 +1,7 @@
 # 100-days-of-code
 <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/120767/preview.svg" width="36"> <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/119712/preview.svg" width="36">
 ### Day 0
-I initially planned to pursue Natural Language Processing but somehow switched to Front End Web Dev in the end. Hence, I halted learning Python and started doing research on Front End learning path. This phase actually lasted for nearly a month due to me either chasing rabbits or trying different courses/materials before settling down on freeCodeCamp, Codeacademy and Colt Steele's course, and Google LOL.
+I initially planned to pursue Natural Language Processing but somehow switched to Web Dev in the end. Hence, I halted learning Python and started doing research on Front End's learning path. This phase actually lasted for nearly a month due to me either chasing rabbits or trying different courses/materials before settling down on freeCodeCamp, Codeacademy and Colt Steele's course, and Google LOL.
 
 Can't forget to mention my idol Andrei Neagoie (Colt Steele is still King, and Andrei is Prince if you know what I mean):
 https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way
